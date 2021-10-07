@@ -1,0 +1,2 @@
+# sedlo
+Azure services
